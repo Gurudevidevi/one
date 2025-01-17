@@ -8,6 +8,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS CI/CD</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS MY FIRST NEXUS SETUP</h1>
       <h1 style="color: yellow; font-size: 40px;" align="center">THIS IS MY FIRST NEXUS SETUP</h1>
+<h2 style="color: purpul; font-size: 40px;" align="center">THIS IS MY FIRST NEXUS SETUP</h2>
 	
 	
 	
